@@ -79,7 +79,7 @@ interface Ethernet1/21
 interface Ethernet1/22
 
 interface Ethernet1/23
-
+ shutdown
 interface Ethernet1/24
 
 interface Ethernet1/25
